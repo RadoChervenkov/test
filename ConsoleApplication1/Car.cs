@@ -9,5 +9,6 @@
         public Color Color { get; set; }
 
         public FuelType Fuel { get; set; }
+        // asd
     }
 }
